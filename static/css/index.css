@@ -1,0 +1,49 @@
+.board
+{
+    height: 200px;
+    width: 200px;
+    padding:0;
+    border-style:solid;
+    border-color: black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container-fluid
+{
+    height: 90vh;
+}
+
+.col1
+{
+    position: absolute;
+    right:75px;
+}
+
+.col2
+{
+    position:absolute;
+    left:75px;
+}
+
+.page
+{
+    padding:0;
+    position: relative;
+    top: 20vh;
+    width: 100vw;
+}
+
+
+.button
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height: 30px;
+    width: 70px;
+}
